@@ -10,3 +10,9 @@
 #bot {
 	padding-left: 32%;
 }
+
+/*You may want to add a slider to change the font size of the buttons? */
+
+button {
+	font-size: 30px;
+}
