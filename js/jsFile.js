@@ -10,10 +10,10 @@ function preload() {
 		createCanvas(600,600); //makes a canvas, 600px x 600px pixels
 		
 		//make directions
-		createP("<div id='top'><button id='up'>UP</button></div>");
-		createP("<div id='mid'><button id='left'>LEFT</button>");
-		createP("<button id='right'>RIGHT</button></div>");
-		createP("<div id='bot'><button id='down'>DOWN</button></div>");
+		//createP("<div id='top'><button id='up'>UP</button></div>");
+		//createP("<div id='mid'><button id='left'>LEFT</button>");
+		//createP("<button id='right'>RIGHT</button></div>");
+		//createP("<div id='bot'><button id='down'>DOWN</button></div>");
 }
 
 function setup() {   //setup and draw are p5.js functions
